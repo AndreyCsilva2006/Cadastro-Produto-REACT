@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "6020",
+      "name": "Camisa de manga  ",
+      "price": "59.91"
+    },
+    {
+      "id": "4b49",
+      "name": "Camisa de manga  curta",
+      "price": "59.91"
+    },
+    {
+      "id": "7282",
+      "name": "Camisa de manga  curta",
+      "price": "59.91"
+    },
+    {
+      "id": "b395",
+      "name": "Camisa de manga  curta",
+      "price": "120"
+    },
+    {
+      "id": "e029",
+      "name": "Nicollas Caroso",
+      "price": "10.000"
+    }
+  ]
+}
